@@ -17,11 +17,11 @@ class CartIcon extends StatelessWidget {
 
         ),
         Positioned(
-          top: 5,
-          left: 5,
+          top: 14,
+          right: 10,
           child: Container(
-            width: 18,
-            height: 18,
+            width: 10,
+            height: 10,
             alignment: Alignment.center,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10),
